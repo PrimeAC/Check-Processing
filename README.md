@@ -12,3 +12,6 @@ No installation required by the user
 #Execution
 * Run `make`command;
 * Then run the executable.
+
+#Notes
+* Project developed without using git.
